@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Nutrition Attachment",
+        "category": "Health",
+        "subcategory": "Nutrition",
+        "createdAt": "2016-03-24T05:28:03.099+05:30",
+        "updatedAt": "2016-03-24T05:28:03.099+05:30",
+        "price": 24.99,
+        "sale_price": 21.95,
+        "additionalInfo1": "Info 1"
+    }
+
+]
