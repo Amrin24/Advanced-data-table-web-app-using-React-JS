@@ -10,5 +10,439 @@
         "sale_price": 21.95,
         "additionalInfo1": "Info 1"
     }
+    {
+        "id": 2,
+        "name": "Mens Gadget",
+        "category": "Clothing",
+        "subcategory": "Mens",
+        "createdAt": "2024-02-28T06:00:38.635+05:30",
+        "updatedAt": "2024-02-28T06:00:38.635+05:30",
+        "price": 14.95,
+        "sale_price": 12.99
+    },
+    {
+        "id": 3,
+        "name": "Outdoors Gear",
+        "category": "Activity",
+        "subcategory": "Outdoors",
+        "createdAt": "2016-06-03T14:12:33.623+05:30",
+        "updatedAt": "2016-06-03T14:12:33.623+05:30",
+        "price": 86.9
+    },
+    {
+        "id": 4,
+        "name": "Camping Paraphernalia",
+        "category": "Activity",
+        "subcategory": "Camping",
+        "createdAt": "2018-09-06T21:54:00.264+05:30",
+        "updatedAt": "2018-09-06T21:54:00.264+05:30",
+        "price": 113.95,
+        "sale_price": 67.95
+    },
+    {
+        "id": 5,
+        "name": "Cleaning Component",
+        "category": "Home",
+        "subcategory": "Cleaning",
+        "createdAt": "2015-11-28T21:36:56.016+05:30",
+        "updatedAt": "2015-11-28T21:36:56.016+05:30",
+        "price": 158.99,
+        "sale_price": 126
+    },
+    {
+        "id": 6,
+        "name": "Cleaning Implement",
+        "category": "Home",
+        "subcategory": "Cleaning",
+        "createdAt": "2017-02-12T06:26:55.781+05:30",
+        "updatedAt": "2017-02-12T06:26:55.781+05:30",
+        "price": 73,
+        "sale_price": null
+    },
+    {
+        "id": 7,
+        "name": "Outdoors Apparatus",
+        "category": "Activity",
+        "subcategory": "Outdoors",
+        "createdAt": "2018-09-13T05:17:38.176+05:30",
+        "updatedAt": "2018-09-13T05:17:38.176+05:30",
+        "price": 188.95,
+        "sale_price": 169.99
+    },
+    {
+        "id": 8,
+        "name": "Aquarium Gadget",
+        "category": "Pets",
+        "subcategory": "Aquarium",
+        "createdAt": "2017-03-27T10:14:52.483+05:30",
+        "updatedAt": "2017-03-27T10:14:52.483+05:30",
+        "price": 123.9
+    },
+    {
+        "id": 9,
+        "name": "Cat Gear",
+        "category": "Pets",
+        "subcategory": "Cat",
+        "createdAt": "2012-04-26T16:41:24.239+05:30",
+        "updatedAt": "2012-04-26T16:41:24.239+05:30",
+        "price": 199,
+        "sale_price": 119
+    },
+    {
+        "id": 10,
+        "name": "Tire Rig",
+        "category": "Automotive",
+        "subcategory": "Tire",
+        "createdAt": "2019-01-13T19:58:52.563+05:30",
+        "updatedAt": "2019-01-13T19:58:52.563+05:30",
+        "price": 168.99,
+        "sale_price": 117
+    },
+    {
+        "id": 11,
+        "name": "Cat Equipment",
+        "category": "Pets",
+        "subcategory": "Cat",
+        "createdAt": "2010-10-08T01:34:14.617+05:30",
+        "updatedAt": "2010-10-08T01:34:14.617+05:30",
+        "price": 76,
+        "sale_price": 45.99
+    },
+    {
+        "id": 12,
+        "name": "Jewelry Machine",
+        "category": "Clothing",
+        "subcategory": "Jewelry",
+        "createdAt": "2019-04-09T23:24:28.136+05:30",
+        "updatedAt": "2019-04-09T23:24:28.136+05:30",
+        "price": 193.95,
+        "sale_price": 154.99
+    },
+    {
+        "id": 13,
+        "name": "Movie Apparatus",
+        "category": "Entertainment",
+        "subcategory": "Movie",
+        "createdAt": "2017-10-11T21:41:15.748+05:30",
+        "updatedAt": "2017-10-11T21:41:15.748+05:30",
+        "price": 62.95,
+        "sale_price": 43.95
+    },
+    {
+        "id": 14,
+        "name": "Tire Tool",
+        "category": "Automotive",
+        "subcategory": "Tire",
+        "createdAt": "2022-12-03T01:24:57.034+05:30",
+        "updatedAt": "2022-12-03T01:24:57.034+05:30",
+        "price": 183.95,
+        "sale_price": 146.99
+    },
+    {
+        "id": 15,
+        "name": "Tire Item",
+        "category": "Automotive",
+        "subcategory": "Tire",
+        "createdAt": "2023-05-17T10:35:33.954+05:30",
+        "updatedAt": "2023-05-17T10:35:33.954+05:30",
+        "price": 128.95,
+        "sale_price": 102.95
+    },
+    {
+        "id": 16,
+        "name": "Furniture Device",
+        "category": "Home",
+        "subcategory": "Furniture",
+        "createdAt": "2022-08-03T09:13:10.578+05:30",
+        "updatedAt": "2022-08-03T09:13:10.578+05:30",
+        "price": 15
+    },
+    {
+        "id": 17,
+        "name": "Camping Device",
+        "category": "Activity",
+        "subcategory": "Camping",
+        "createdAt": "2010-10-30T20:54:13.941+05:30",
+        "updatedAt": "2010-10-30T20:54:13.941+05:30",
+        "price": 193,
+        "sale_price": null
+    },
+    {
+        "id": 18,
+        "name": "Baby Attachment",
+        "category": "Clothing",
+        "subcategory": "Baby",
+        "createdAt": "2014-08-28T10:00:48.808+05:30",
+        "updatedAt": "2014-08-28T10:00:48.808+05:30",
+        "price": 86.95,
+        "sale_price": 60.99
+    },
+    {
+        "id": 19,
+        "name": "First Aid Device",
+        "category": "Health",
+        "subcategory": "First Aid",
+        "createdAt": "2017-12-30T05:40:14.736+05:30",
+        "updatedAt": "2017-12-30T05:40:14.736+05:30",
+        "price": 57.99,
+        "sale_price": 39.99
+    },
+    {
+        "id": 20,
+        "name": "Home Improvement Rig",
+        "category": "Home",
+        "subcategory": "Home Improvement",
+        "createdAt": "2014-08-27T04:30:19.633+05:30",
+        "updatedAt": "2014-08-27T04:30:19.633+05:30",
+        "price": 145.9
+    },
+    {
+        "id": 21,
+        "name": "Camping Gear",
+        "category": "Activity",
+        "subcategory": "Camping",
+        "createdAt": "2022-03-25T21:11:54.423+05:30",
+        "updatedAt": "2022-03-25T21:11:54.423+05:30",
+        "price": 81.95,
+        "sale_price": 48
+    },
+    {
+        "id": 22,
+        "name": "Bath Mechanism",
+        "category": "Beauty",
+        "subcategory": "Bath",
+        "createdAt": "2016-07-21T03:18:03.513+05:30",
+        "updatedAt": "2016-07-21T03:18:03.513+05:30",
+        "price": 185,
+        "sale_price": 148
+    },
+    {
+        "id": 23,
+        "name": "Baby Thingamajig",
+        "category": "Clothing",
+        "subcategory": "Baby",
+        "createdAt": "2016-05-15T13:38:37.719+05:30",
+        "updatedAt": "2016-05-15T13:38:37.719+05:30",
+        "price": 108.99,
+        "sale_price": 86.99
+    },
+    {
+        "id": 24,
+        "name": "Kids Item",
+        "category": "Clothing",
+        "subcategory": "Kids",
+        "createdAt": "2011-03-09T16:01:48.314+05:30",
+        "updatedAt": "2011-03-09T16:01:48.314+05:30",
+        "price": 186,
+        "sale_price": null
+    },
+    {
+        "id": 25,
+        "name": "Mens Instrument",
+        "category": "Clothing",
+        "subcategory": "Mens",
+        "createdAt": "2013-04-30T03:08:40.797+05:30",
+        "updatedAt": "2013-04-30T03:08:40.797+05:30",
+        "price": 105,
+        "sale_price": 73.99
+    },
+    {
+        "id": 26,
+        "name": "Sports Whatchamacallit",
+        "category": "Activity",
+        "subcategory": "Sports",
+        "createdAt": "2016-06-11T03:38:26.225+05:30",
+        "updatedAt": "2016-06-11T03:38:26.225+05:30",
+        "price": 23.95,
+        "sale_price": 13.95
+    },
+    {
+        "id": 27,
+        "name": "First Aid Tool",
+        "category": "Health",
+        "subcategory": "First Aid",
+        "createdAt": "2018-10-06T13:09:10.021+05:30",
+        "updatedAt": "2018-10-06T13:09:10.021+05:30",
+        "price": 197.95,
+        "sale_price": 157.99
+    },
+    {
+        "id": 28,
+        "name": "Party Contraption",
+        "category": "Entertainment",
+        "subcategory": "Party",
+        "createdAt": "2023-12-08T13:50:42.356+05:30",
+        "updatedAt": "2023-12-08T13:50:42.356+05:30",
+        "price": 146.99,
+        "sale_price": 116.95
+    },
+    {
+        "id": 29,
+        "name": "Furniture Instrument",
+        "category": "Home",
+        "subcategory": "Furniture",
+        "createdAt": "2019-11-01T02:41:28.313+05:30",
+        "updatedAt": "2019-11-01T02:41:28.313+05:30",
+        "price": 168.99,
+        "sale_price": 100
+    },
+    {
+        "id": 30,
+        "name": "Computer Instrument",
+        "category": "Electronics",
+        "subcategory": "Computer",
+        "createdAt": "2022-07-24T04:48:25.285+05:30",
+        "updatedAt": "2022-07-24T04:48:25.285+05:30",
+        "price": 42.95,
+        "sale_price": null
+    },
+    {
+        "id": 31,
+        "name": "Sports Widget",
+        "category": "Activity",
+        "subcategory": "Sports",
+        "createdAt": "2014-01-10T02:37:42.832+05:30",
+        "updatedAt": "2014-01-10T02:37:42.832+05:30",
+        "price": 77.9
+    },
+    {
+        "id": 32,
+        "name": "Dog Supplies",
+        "category": "Pets",
+        "subcategory": "Dog",
+        "createdAt": "2023-09-14T16:36:18.492+05:30",
+        "updatedAt": "2023-09-14T16:36:18.492+05:30",
+        "price": 87.99,
+        "sale_price": 52.95
+    },
+    {
+        "id": 33,
+        "name": "Cat Widget",
+        "category": "Pets",
+        "subcategory": "Cat",
+        "createdAt": "2012-09-17T16:25:18.711+05:30",
+        "updatedAt": "2012-09-17T16:25:18.711+05:30",
+        "price": 108.95,
+        "sale_price": 86.95
+    },
+    {
+        "id": 34,
+        "name": "Technology Doodad",
+        "category": "Electronics",
+        "subcategory": "Technology",
+        "createdAt": "2018-09-30T15:38:34.749+05:30",
+        "updatedAt": "2018-09-30T15:38:34.749+05:30",
+        "price": 21,
+        "sale_price": 14
+    },
+    {
+        "id": 35,
+        "name": "Outdoors Equipment",
+        "category": "Activity",
+        "subcategory": "Outdoors",
+        "createdAt": "2019-05-14T14:46:57.805+05:30",
+        "updatedAt": "2019-05-14T14:46:57.805+05:30",
+        "price": 183.99,
+        "sale_price": 164.99
+    },
+    {
+        "id": 36,
+        "name": "Book Component",
+        "category": "Entertainment",
+        "subcategory": "Book",
+        "createdAt": "2015-09-10T23:45:03.538+05:30",
+        "updatedAt": "2015-09-10T23:45:03.538+05:30",
+        "price": 156,
+        "sale_price": 124.95
+    },
+    {
+        "id": 37,
+        "name": "Toy Gizmo",
+        "category": "Entertainment",
+        "subcategory": "Toy",
+        "createdAt": "2022-10-27T17:19:56.582+05:30",
+        "updatedAt": "2022-10-27T17:19:56.582+05:30",
+        "price": 32.95,
+        "sale_price": 25
+    },
+    {
+        "id": 38,
+        "name": "Engine Paraphernalia",
+        "category": "Automotive",
+        "subcategory": "Engine",
+        "createdAt": "2019-01-22T00:20:34.036+05:30",
+        "updatedAt": "2019-01-22T00:20:34.036+05:30",
+        "price": 60.95,
+        "sale_price": 36.95
+    },
+    {
+        "id": 39,
+        "name": "Tire Apparatus",
+        "category": "Automotive",
+        "subcategory": "Tire",
+        "createdAt": "2023-10-26T10:18:21.624+05:30",
+        "updatedAt": "2023-10-26T10:18:21.624+05:30",
+        "price": 144.9
+    },
+    {
+        "id": 40,
+        "name": "Sports Gizmo",
+        "category": "Activity",
+        "subcategory": "Sports",
+        "createdAt": "2021-11-06T22:23:44.333+05:30",
+        "updatedAt": "2021-11-06T22:23:44.333+05:30",
+        "price": 25.95,
+        "sale_price": 20.95
+    },
+    {
+        "id": 41,
+        "name": "Cleaning Tool",
+        "category": "Home",
+        "subcategory": "Cleaning",
+        "createdAt": "2017-12-27T12:02:16.386+05:30",
+        "updatedAt": "2017-12-27T12:02:16.386+05:30",
+        "price": 50,
+        "sale_price": 45.99
+    },
+    {
+        "id": 42,
+        "name": "Toy Widget",
+        "category": "Entertainment",
+        "subcategory": "Toy",
+        "createdAt": "2013-08-06T07:40:25.643+05:30",
+        "updatedAt": "2013-08-06T07:40:25.643+05:30",
+        "price": 46.99,
+        "sale_price": 32.95
+    },
+    {
+        "id": 43,
+        "name": "Sports Tool",
+        "category": "Activity",
+        "subcategory": "Sports",
+        "createdAt": "2017-01-26T02:29:53.945+05:30",
+        "updatedAt": "2017-01-26T02:29:53.945+05:30",
+        "price": 37.95,
+        "sale_price": 33
+    },
+    {
+        "id": 44,
+        "name": "Movie Item",
+        "category": "Entertainment",
+        "subcategory": "Movie",
+        "createdAt": "2010-02-05T04:09:35.043+05:30",
+        "updatedAt": "2010-02-05T04:09:35.043+05:30",
+        "price": 37.95,
+        "sale_price": 25
+    },
+    {
+        "id": 45,
+        "name": "Music Device",
+        "category": "Entertainment",
+        "subcategory": "Music",
+        "createdAt": "2016-04-08T20:38:55.062+05:30",
+        "updatedAt": "2016-04-08T20:38:55.062+05:30",
+        "price": 43,
+        "sale_price": 34.95
+    }
 
 ]
